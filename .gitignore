@@ -1,0 +1,24 @@
+# Datos (se descargan con torchvision)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Pesos / checkpoints
+*.pth
+*.pt
+
+# Sistema
+.DS_Store
+
+# Informe editable (se sube solo el PDF) y archivos temporales de Word
+*.docx
+~$*
