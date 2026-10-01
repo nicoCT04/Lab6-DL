@@ -1,7 +1,8 @@
 # Laboratorio #6 — Transfer Learning y Fine-Tuning
 
 **CC3092 · Deep Learning y Sistemas Inteligentes** — Universidad del Valle de Guatemala
-**Nicolás Concuá**
+**Nicolás Concuá - 23197**
+**Esteban Cárcamo - 23016**
 
 Comparación de tres estrategias para clasificar **CIFAR-10**:
 
